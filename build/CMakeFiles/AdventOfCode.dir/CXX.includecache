@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikael/Desktop/Advent of Code/Days/days.hpp
+
+/home/mikael/Desktop/Advent of Code/main.cpp
+iostream
+-
+Days/days.hpp
+/home/mikael/Desktop/Advent of Code/Days/days.hpp
+

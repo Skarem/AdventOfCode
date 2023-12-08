@@ -1,0 +1,6 @@
+/home/mikael/Desktop/Advent of Code/build/CMakeFiles/edit_cache.dir
+/home/mikael/Desktop/Advent of Code/build/CMakeFiles/rebuild_cache.dir
+/home/mikael/Desktop/Advent of Code/build/CMakeFiles/AdventOfCode.dir
+/home/mikael/Desktop/Advent of Code/build/Days/CMakeFiles/rebuild_cache.dir
+/home/mikael/Desktop/Advent of Code/build/Days/CMakeFiles/edit_cache.dir
+/home/mikael/Desktop/Advent of Code/build/Days/CMakeFiles/AdventOfCodeLibrary.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAdventOfCodeLibrary.a  CMakeFiles/AdventOfCodeLibrary.dir/day_1_a.c.o CMakeFiles/AdventOfCodeLibrary.dir/day_1_b.c.o CMakeFiles/AdventOfCodeLibrary.dir/day1.cpp.o CMakeFiles/AdventOfCodeLibrary.dir/day2.cpp.o
+/usr/bin/ranlib libAdventOfCodeLibrary.a

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikael/Desktop/Advent of Code/Days/day_1_a.c
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+days.hpp
+/home/mikael/Desktop/Advent of Code/Days/days.hpp
+
+/home/mikael/Desktop/Advent of Code/Days/days.hpp
+

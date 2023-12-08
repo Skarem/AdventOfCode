@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AdventOfCode.dir/main.cpp.o  -o AdventOfCode  Days/libAdventOfCodeLibrary.a 
